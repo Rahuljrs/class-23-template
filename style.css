@@ -41,7 +41,7 @@
      
     height: 200px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .wrap-items h6 {
     line-height: 60px;
