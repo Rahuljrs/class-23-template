@@ -95,6 +95,7 @@
 .middle{
     flex-wrap: wrap;
     justify-content: flex-start;
+    align-content:flex-start;
 }
 
 .side-bg {
